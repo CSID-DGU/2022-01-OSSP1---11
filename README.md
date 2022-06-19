@@ -134,4 +134,5 @@ CUDA 10.2/11.3 </br>
 ----------
 Rustup (nightly ver.) </br>
 Visual Studio 2017, Build tools for Visal Studio 2017 </br>
-Visual Studio Code
+Visual Studio Code </br>
+파이썬 3.7, 3.10
