@@ -29,7 +29,7 @@ async-generator     1.10
 attrs               21.2.0
 backcall            0.2.0
 bleach              3.3.0
-boto3
+boto3,
 certifi             2020.12.5
 cffi                1.14.5
 chardet             4.0.0
@@ -126,13 +126,12 @@ zipp                3.4.1
 
 컴퓨터 사양
 -----------
-Geforce GTX 1650 ti, 1050
-CUDA 10.2/11.3
-16Gb 메모리
+Geforce GTX 1650 ti, 1050 </br>
+CUDA 10.2/11.3 </br>
+16Gb 메모리 
 
 기타
 ----------
-Rustup (nightly ver.)
-Visual Studio 2017
-Build tools for Visal Studio 2017
+Rustup (nightly ver.) </br>
+Visual Studio 2017, Build tools for Visal Studio 2017 </br>
 Visual Studio Code
