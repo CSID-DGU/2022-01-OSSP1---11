@@ -12,3 +12,10 @@ _yeonsikch님의 nlp-filter-out/SKTBrain님의 kobert 프로젝트를 기반으�
 프로젝트 진행 절차
 ===============
 ![Alt text](./img/슬라이드6.JPG)
+![Alt text](./img/슬라이드8.JPG)
+![Alt text](./img/슬라이드9.JPG)
+![Alt text](./img/슬라이드10.JPG)
+![Alt text](./img/슬라이드11.JPG)
+![Alt text](./img/슬라이드12.JPG)
+![Alt text](./img/슬라이드13.JPG)
+![Alt text](./img/슬라이드14.JPG)
