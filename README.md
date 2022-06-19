@@ -128,4 +128,11 @@ zipp                3.4.1
 -----------
 Geforce GTX 1650 ti, 1050
 CUDA 10.2/11.3
-16
+16Gb 
+
+기타
+----------
+Rustup (nightly ver.)
+Visual Studio 2017
+Build tools for Visal Studio 2017
+Visual Studio Code
